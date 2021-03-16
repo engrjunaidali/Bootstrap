@@ -1,0 +1,33 @@
+.body{
+    background: #F0F0FA;
+}
+#header{
+    background: #204DCC;
+    color: white;
+    font-size:200%;
+    padding-left: 15px;
+    
+}
+#menu{
+
+}
+#menu ul{
+    list-style: none;
+}
+#menu ul li{
+    display : inline-block;
+}
+
+#body{
+
+}
+#sidebar{
+
+}
+#footer{
+    background: #204DCC;
+    color: white;
+    font-size:100%;
+    padding-left: 15px;
+    
+}

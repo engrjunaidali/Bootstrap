@@ -1,5 +1,5 @@
-.container{
-    border: 2px solid black
+/* .container{
+    border: 1px solid black
 }
 
 .container-fluid{
@@ -8,4 +8,20 @@
 
 .row{
     border : 1px solid blue
+}
+
+.col{
+    border : 0px solid palevioletred
+}
+
+.col-9{
+    border: 1px solid peachpuff
+} */
+
+#header{
+    background: #204DCC;
+    color: white;
+    font-size:200%;
+    padding-left: 15px;
+    
 }
